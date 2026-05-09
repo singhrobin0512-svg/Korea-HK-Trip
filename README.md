@@ -1,4 +1,4 @@
-# Korea-HK-Trip
+
 export default function TravelDashboard() {
   const koreaDays = [
     {
